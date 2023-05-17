@@ -1,0 +1,6 @@
+{
+	"tenant_id": "b1c14d5c-3625-45b3-a430-9552373a0c2f",
+	"client_id": "25b9da85-156a-4247-9e00-b6f0bdfcd6cb",
+	"redirect_uri": "https://login.microsoftonline.com/common/oauth2/nativeclient",
+	"resource" : "https://graph.microsoft.com"
+}
